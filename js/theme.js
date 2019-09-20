@@ -211,5 +211,4 @@
 			fixedContentPos: false
 		});
 	}); 
-    }
 })(jQuery)
