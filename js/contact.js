@@ -73,8 +73,9 @@ $(document).ready(function(){
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             $('#error').fadeIn()
                             $('.modal').modal('hide');
-		                	$('#error').modal('show');
+		            $('#error').modal('show');
                         })
+			 console.log($(form);
                     }
                 })
             }
